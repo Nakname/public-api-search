@@ -1,0 +1,17 @@
+.navbar {
+    width: 100%;
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    a {
+        color: #fff;
+        text-decoration: none;
+
+        &:hover {
+            color: #00DED1;
+        }
+    }
+    a.active {
+        color: #00DED1;
+    }
+}

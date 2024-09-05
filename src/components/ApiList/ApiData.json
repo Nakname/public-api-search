@@ -1,0 +1,377 @@
+[
+  {
+    "id": 1,
+    "name": "Wroclaw Akademia Biznesu",
+    "domain": [
+      "student.wab.edu.pl",
+      "wab.edu.pl"
+    ],
+    "country": "Poland",
+    "alpha_two_code": "PL",
+    "web_page": [
+      "https://wab.edu.pl"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Atharva College of Engineering",
+    "domain": [
+      "atharvacoe.ac.in"
+    ],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "web_page": [
+      "https://atharvacoe.ac.in"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Toronto Baptist Seminary and Bible College",
+    "domain": [
+      "tbs.edu"
+    ],
+    "country": "Canada",
+    "alpha_two_code": "CA",
+    "web_page": [
+      "https://tbs.edu"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Universidade Comunitária da Região de Chapecó - Unochapecó",
+    "domain": [
+      "unochapeco.edu.br"
+    ],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "web_page": [
+      "https://unochapeco.edu.br"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "West Herts College",
+    "domain": [
+      "student.westherts.ac.uk",
+      "westherts.ac.uk"
+    ],
+    "country": "United Kingdom",
+    "alpha_two_code": "GB",
+    "web_page": [
+      "https://westherts.ac.uk"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Bhagwan Parshuram Institute of Technology",
+    "domain": [
+      "bpitindia.edu.in",
+      "bpitindia.in"
+    ],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "web_page": [
+      "http://bpitindia.ac.in"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "National Institute of Applied Sciences of Toulouse",
+    "domain": [
+      "insa-toulouse.fr"
+    ],
+    "country": "France",
+    "alpha_two_code": "FR",
+    "web_page": [
+      "https://insa-toulouse.fr"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Bugema University",
+    "domain": [
+      "bugemauniv.ac.ug"
+    ],
+    "country": "Uganda",
+    "alpha_two_code": "UG",
+    "web_page": [
+      "https://bugemauniv.ac.ug/"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
+    "domain": [
+      "mbzuai.ac.ae"
+    ],
+    "country": "United Arab Emirates",
+    "alpha_two_code": "AE",
+    "web_page": [
+      "https://mbzuai.ac.ae/"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Centro Universitário de Brasília, UNICEUB",
+    "domain": [
+      "sempreceub.com",
+      "uniceub.br"
+    ],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "web_page": [
+      "https://www.uniceub.br"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Kharkiv National University",
+    "domain": [
+      "student.karazin.ua",
+      "karazin.ua",
+      "univer.kharkov.ua"
+    ],
+    "country": "Ukraine",
+    "alpha_two_code": "UA",
+    "web_page": [
+      "https://karazin.ua",
+      "http://www.univer.kharkov.ua/"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Universidad Técnica Federico Santa María",
+    "domain": [
+      "usm.cl"
+    ],
+    "country": "Chile",
+    "alpha_two_code": "CL",
+    "web_page": [
+      "https://usm.cl"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "IÉSEG School of Management",
+    "domain": [
+      "ieseg.fr"
+    ],
+    "country": "France",
+    "alpha_two_code": "FR",
+    "web_page": [
+      "https://ieseg.fr"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Sun Yat-Sen University",
+    "domain": [
+      "mail2.sysu.edu.cn",
+      "mail.sysu.edu.cn"
+    ],
+    "country": "China",
+    "alpha_two_code": "CN",
+    "web_page": [
+      "https://sysu.edu.cn"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Royal Holloway University of London",
+    "domain": [
+      "rhul.ac.uk"
+    ],
+    "country": "United Kingdom",
+    "alpha_two_code": "GB",
+    "web_page": [
+      "https://rhul.ac.uk"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Hunan University",
+    "domain": [
+      "hnu.edu.cn",
+      "www-en.hnu.edu.cn"
+    ],
+    "country": "China",
+    "alpha_two_code": "CN",
+    "web_page": [
+      "https://www.hnu.edu.cn",
+      "http://www-en.hnu.edu.cn"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "University of Portsmouth",
+    "domain": [
+      "port.ac.uk",
+      "myport.ac.uk",
+      "myport.port.ac.uk"
+    ],
+    "country": "United Kingdom",
+    "alpha_two_code": "GB",
+    "web_page": [
+      "http://www.port.ac.uk/",
+      "https://myport.port.ac.uk"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Académie de Paris",
+    "domain": [
+      "ac-paris.fr"
+    ],
+    "country": "France",
+    "alpha_two_code": "FR",
+    "web_page": [
+      "https://www.ac-paris.fr/"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Académie d'Aix-Marseille",
+    "domain": [
+      "ac-aix-marseille.fr"
+    ],
+    "country": "France",
+    "alpha_two_code": "FR",
+    "web_page": [
+      "https://www.ac-aix-marseille.fr/"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Académie de Créteil",
+    "domain": [
+      "ac-creteil.fr"
+    ],
+    "country": "France",
+    "alpha_two_code": "FR",
+    "web_page": [
+      "https://www.ac-creteil.fr/"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Marywood University",
+    "domain": [
+      "marywood.edu"
+    ],
+    "country": "United States",
+    "alpha_two_code": "US",
+    "web_page": [
+      "http://www.marywood.edu"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "University of Petroleum and Energy Studies",
+    "domain": [
+      "upes.ac.in"
+    ],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "web_page": [
+      "https://www.upes.ac.in/"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Ashoka University",
+    "domain": [
+      "ashoka.edu.in"
+    ],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "web_page": [
+      "https://www.ashoka.edu.in"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Indian Institute of Information Technology Sri City",
+    "domain": [
+      "iiits.in"
+    ],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "web_page": [
+      "https://www.iiits.ac.in/"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Cégep de Saint-Jérôme",
+    "domain": [
+      "cstj.qc.ca"
+    ],
+    "country": "Canada",
+    "alpha_two_code": "CA",
+    "web_page": [
+      "https://www.cstj.qc.ca",
+      "https://ccmt.cstj.qc.ca",
+      "https://ccml.cstj.qc.ca"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Lindenwood University",
+    "domain": [
+      "lindenwood.edu"
+    ],
+    "country": "United States",
+    "alpha_two_code": "US",
+    "web_page": [
+      "http://www.lindenwood.edu/"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "DAV Institute of Engineering & Technology",
+    "domain": [
+      "davietjal.org"
+    ],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "web_page": [
+      "http://www.davietjal.org/"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Lovely Professional University",
+    "domain": [
+      "lpu.in"
+    ],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "web_page": [
+      "http://www.lpu.in/"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Sullivan University",
+    "domain": [
+      "sullivan.edu"
+    ],
+    "country": "United States",
+    "alpha_two_code": "US",
+    "web_page": [
+      "https://sullivan.edu/"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Florida State College at Jacksonville",
+    "domain": [
+      "fscj.edu"
+    ],
+    "country": "United States",
+    "alpha_two_code": "US",
+    "web_page": [
+      "https://www.fscj.edu/"
+    ]
+  }
+]

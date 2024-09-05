@@ -1,0 +1,25 @@
+.api-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ApiCard {
+    margin-right: 10px;
+    margin-bottom: 0;
+
+    @media (max-width: 992px) {
+        margin-right: 10px;
+    }
+}
+
+@media (min-width: 1400px) {
+    body .container {
+        max-width: 1450px;
+    }
+}
+
+@media (max-width: 575px) {
+    body .container {
+        max-width: 365px;
+    }
+}

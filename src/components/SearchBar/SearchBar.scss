@@ -1,0 +1,77 @@
+.search-bar {
+    margin: 20px 0;
+
+    .TextField {
+        width: 100%;
+    }
+}
+
+.filter-button {
+    display: none;
+}
+
+.filter-little-button {
+    display: none;
+}
+
+
+@media (max-width: 991px) and (min-width: 576px) {
+    .search-bar {
+        display: flex;
+        justify-content: space-between;
+
+        .TextField {
+            width: 74%;
+        }
+
+        .filter-button {
+            display: flex;
+            margin-right: 17px;
+        }
+
+        .Sidebar {
+            width: 200px;
+        }
+    }
+
+    .filter-panel {
+        border: none;
+        width: 100%;
+        max-height: none;
+        position: relative;
+        padding: 10px;
+    }
+}
+
+@media (max-width: 575px) {
+    .search-bar {
+        display: flex;
+        justify-content: space-between;
+
+        .TextField {
+            width: 80%;
+        }
+
+        
+        .filter-little-button {
+            display: flex;
+            margin-right: 10px;
+        }
+    }
+
+    .filter-panel {
+        border: none;
+        width: 100%;
+        max-height: none;
+        position: relative;
+        padding: 10px;
+    }
+}
+
+@media (max-width: 562px) {
+    .api-card {
+        width: 166px;
+    }
+
+
+}
